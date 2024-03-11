@@ -1,0 +1,10 @@
+C:\Projects\SolidUtilities\DatabaseImplementor\bin\Debug\netstandard2.1\DatabaseImplementor.deps.json
+C:\Projects\SolidUtilities\DatabaseImplementor\bin\Debug\netstandard2.1\DatabaseImplementor.dll
+C:\Projects\SolidUtilities\DatabaseImplementor\bin\Debug\netstandard2.1\DatabaseImplementor.pdb
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.csproj.AssemblyReference.cache
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.AssemblyInfoInputs.cache
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.AssemblyInfo.cs
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.csproj.CoreCompileInputs.cache
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.dll
+C:\Projects\SolidUtilities\DatabaseImplementor\obj\Debug\netstandard2.1\DatabaseImplementor.pdb
